@@ -9,9 +9,9 @@ The objective of this project is to create a database of recipes which can be ac
 
 ### Checklist
 
-- [] Plan and Create Database
-- [] Populate Database
-- [] Create an application for user interaction with the database. 
+- [ ] Plan and Create Database
+- [ ] Populate Database
+- [ ] Create an application for user interaction with the database. 
 
 ## Product
 
